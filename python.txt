@@ -1,0 +1,29 @@
+streaming:jesy jesy client data dy wesay jwab aye example:chatgpt4
+json:response format jo response ayega ai hamay jo bhi answer dega json m dega 
+
+ai string hi response deta h
+parcer sy guzartayhain 
+
+function_calling llm sy koi bhi swal krein jo info mojid h ussy answer dega
+finetune ky liye expertise chhaye hote h
+koi bhi additional information (function calling)
+openai SDK h software development tool kit hai 
+code interpretitor responsible hota h 
+
+json parcel json dumps  dictionary ko convert krdega json main json.dump json m convert krta h
+dictionary ko json main convert krna json.dumps
+
+json.load string ko json m convert krna h tu load hoga
+json.dumps  dictionary  ko json m convert krna 
+
+
+response 
+
+
+
+
+auto  khud decide krega
+none kuch nh krega
+
+run ki mokhtalif state h
+har thread pe har asistant pe ik run hota h
